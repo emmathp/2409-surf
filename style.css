@@ -1,0 +1,12 @@
+body{
+  font-family: 'arial', sans-serif;
+}
+.jumbotron-fluid {
+  /* Choisis la hauteur ici */
+  height: 500px;
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
